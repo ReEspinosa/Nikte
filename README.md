@@ -30,6 +30,4 @@ cd nikte
 
 Proyecto estático. Puedes desplegarlo en cualquier servicio de hosting que soporte HTML plano, como GitHub Pages, Netlify o Vercel.
 
-## Licencia
 
-MIT
